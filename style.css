@@ -1,0 +1,44 @@
+
+body {
+    background-color: #F5EBDD;
+    color: #4B3621;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    background-color: #8B6F47;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.baslik {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bolum {
+    background-color: #FFF9F0;
+    padding: 15px;
+    margin: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #8B6F47;
+}
+
+h2 {
+    color: #795C36;
+    font-size: 22px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.son {
+    text-align: center;
+    font-weight: bold;
+}
